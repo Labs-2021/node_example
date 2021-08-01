@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/loeken/node_example.git"
+    "url": "git+https://github.com/Labs-2021/node_example.git"
   },
   "author": "author",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/loeken/node_example/issues"
+    "url": "https://github.com/Labs-2021/node_example.git"
   },
-  "homepage": "https://github.com/loeken/node_example#readme"
+  "homepage": "https://github.com/Labs-2021/node_example#readme"
 }
